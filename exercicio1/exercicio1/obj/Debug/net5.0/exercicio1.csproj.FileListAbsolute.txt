@@ -1,0 +1,15 @@
+C:\temp\CursoC#\exercicio1\exercicio1\bin\Debug\net5.0\exercicio1.exe
+C:\temp\CursoC#\exercicio1\exercicio1\bin\Debug\net5.0\exercicio1.deps.json
+C:\temp\CursoC#\exercicio1\exercicio1\bin\Debug\net5.0\exercicio1.runtimeconfig.json
+C:\temp\CursoC#\exercicio1\exercicio1\bin\Debug\net5.0\exercicio1.runtimeconfig.dev.json
+C:\temp\CursoC#\exercicio1\exercicio1\bin\Debug\net5.0\exercicio1.dll
+C:\temp\CursoC#\exercicio1\exercicio1\bin\Debug\net5.0\ref\exercicio1.dll
+C:\temp\CursoC#\exercicio1\exercicio1\bin\Debug\net5.0\exercicio1.pdb
+C:\temp\CursoC#\exercicio1\exercicio1\obj\Debug\net5.0\exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\CursoC#\exercicio1\exercicio1\obj\Debug\net5.0\exercicio1.AssemblyInfoInputs.cache
+C:\temp\CursoC#\exercicio1\exercicio1\obj\Debug\net5.0\exercicio1.AssemblyInfo.cs
+C:\temp\CursoC#\exercicio1\exercicio1\obj\Debug\net5.0\exercicio1.csproj.CoreCompileInputs.cache
+C:\temp\CursoC#\exercicio1\exercicio1\obj\Debug\net5.0\exercicio1.dll
+C:\temp\CursoC#\exercicio1\exercicio1\obj\Debug\net5.0\ref\exercicio1.dll
+C:\temp\CursoC#\exercicio1\exercicio1\obj\Debug\net5.0\exercicio1.pdb
+C:\temp\CursoC#\exercicio1\exercicio1\obj\Debug\net5.0\exercicio1.genruntimeconfig.cache

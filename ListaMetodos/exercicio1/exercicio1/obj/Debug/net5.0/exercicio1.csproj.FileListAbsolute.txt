@@ -1,0 +1,16 @@
+C:\Users\USUARIO\temp\ListaMetodos\exercicio1\exercicio1\bin\Debug\net5.0\exercicio1.exe
+C:\Users\USUARIO\temp\ListaMetodos\exercicio1\exercicio1\bin\Debug\net5.0\exercicio1.deps.json
+C:\Users\USUARIO\temp\ListaMetodos\exercicio1\exercicio1\bin\Debug\net5.0\exercicio1.runtimeconfig.json
+C:\Users\USUARIO\temp\ListaMetodos\exercicio1\exercicio1\bin\Debug\net5.0\exercicio1.runtimeconfig.dev.json
+C:\Users\USUARIO\temp\ListaMetodos\exercicio1\exercicio1\bin\Debug\net5.0\exercicio1.dll
+C:\Users\USUARIO\temp\ListaMetodos\exercicio1\exercicio1\bin\Debug\net5.0\ref\exercicio1.dll
+C:\Users\USUARIO\temp\ListaMetodos\exercicio1\exercicio1\bin\Debug\net5.0\exercicio1.pdb
+C:\Users\USUARIO\temp\ListaMetodos\exercicio1\exercicio1\obj\Debug\net5.0\exercicio1.csprojAssemblyReference.cache
+C:\Users\USUARIO\temp\ListaMetodos\exercicio1\exercicio1\obj\Debug\net5.0\exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\temp\ListaMetodos\exercicio1\exercicio1\obj\Debug\net5.0\exercicio1.AssemblyInfoInputs.cache
+C:\Users\USUARIO\temp\ListaMetodos\exercicio1\exercicio1\obj\Debug\net5.0\exercicio1.AssemblyInfo.cs
+C:\Users\USUARIO\temp\ListaMetodos\exercicio1\exercicio1\obj\Debug\net5.0\exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\temp\ListaMetodos\exercicio1\exercicio1\obj\Debug\net5.0\exercicio1.dll
+C:\Users\USUARIO\temp\ListaMetodos\exercicio1\exercicio1\obj\Debug\net5.0\ref\exercicio1.dll
+C:\Users\USUARIO\temp\ListaMetodos\exercicio1\exercicio1\obj\Debug\net5.0\exercicio1.pdb
+C:\Users\USUARIO\temp\ListaMetodos\exercicio1\exercicio1\obj\Debug\net5.0\exercicio1.genruntimeconfig.cache

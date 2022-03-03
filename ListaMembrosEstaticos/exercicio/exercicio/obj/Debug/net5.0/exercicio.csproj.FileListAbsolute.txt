@@ -1,0 +1,16 @@
+C:\Users\USUARIO\temp\ListaMembrosEstaticos\exercicio\exercicio\obj\Debug\net5.0\exercicio.csprojAssemblyReference.cache
+C:\Users\USUARIO\temp\ListaMembrosEstaticos\exercicio\exercicio\obj\Debug\net5.0\exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\temp\ListaMembrosEstaticos\exercicio\exercicio\obj\Debug\net5.0\exercicio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\temp\ListaMembrosEstaticos\exercicio\exercicio\obj\Debug\net5.0\exercicio.AssemblyInfo.cs
+C:\Users\USUARIO\temp\ListaMembrosEstaticos\exercicio\exercicio\obj\Debug\net5.0\exercicio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\temp\ListaMembrosEstaticos\exercicio\exercicio\bin\Debug\net5.0\exercicio.exe
+C:\Users\USUARIO\temp\ListaMembrosEstaticos\exercicio\exercicio\bin\Debug\net5.0\exercicio.deps.json
+C:\Users\USUARIO\temp\ListaMembrosEstaticos\exercicio\exercicio\bin\Debug\net5.0\exercicio.runtimeconfig.json
+C:\Users\USUARIO\temp\ListaMembrosEstaticos\exercicio\exercicio\bin\Debug\net5.0\exercicio.runtimeconfig.dev.json
+C:\Users\USUARIO\temp\ListaMembrosEstaticos\exercicio\exercicio\bin\Debug\net5.0\exercicio.dll
+C:\Users\USUARIO\temp\ListaMembrosEstaticos\exercicio\exercicio\bin\Debug\net5.0\ref\exercicio.dll
+C:\Users\USUARIO\temp\ListaMembrosEstaticos\exercicio\exercicio\bin\Debug\net5.0\exercicio.pdb
+C:\Users\USUARIO\temp\ListaMembrosEstaticos\exercicio\exercicio\obj\Debug\net5.0\exercicio.dll
+C:\Users\USUARIO\temp\ListaMembrosEstaticos\exercicio\exercicio\obj\Debug\net5.0\ref\exercicio.dll
+C:\Users\USUARIO\temp\ListaMembrosEstaticos\exercicio\exercicio\obj\Debug\net5.0\exercicio.pdb
+C:\Users\USUARIO\temp\ListaMembrosEstaticos\exercicio\exercicio\obj\Debug\net5.0\exercicio.genruntimeconfig.cache

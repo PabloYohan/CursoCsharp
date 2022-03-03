@@ -1,0 +1,16 @@
+C:\Users\USUARIO\temp\Lista2\exercicio7\exercicio7\bin\Debug\net5.0\exercicio7.exe
+C:\Users\USUARIO\temp\Lista2\exercicio7\exercicio7\bin\Debug\net5.0\exercicio7.deps.json
+C:\Users\USUARIO\temp\Lista2\exercicio7\exercicio7\bin\Debug\net5.0\exercicio7.runtimeconfig.json
+C:\Users\USUARIO\temp\Lista2\exercicio7\exercicio7\bin\Debug\net5.0\exercicio7.runtimeconfig.dev.json
+C:\Users\USUARIO\temp\Lista2\exercicio7\exercicio7\bin\Debug\net5.0\exercicio7.dll
+C:\Users\USUARIO\temp\Lista2\exercicio7\exercicio7\bin\Debug\net5.0\ref\exercicio7.dll
+C:\Users\USUARIO\temp\Lista2\exercicio7\exercicio7\bin\Debug\net5.0\exercicio7.pdb
+C:\Users\USUARIO\temp\Lista2\exercicio7\exercicio7\obj\Debug\net5.0\exercicio7.csprojAssemblyReference.cache
+C:\Users\USUARIO\temp\Lista2\exercicio7\exercicio7\obj\Debug\net5.0\exercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\temp\Lista2\exercicio7\exercicio7\obj\Debug\net5.0\exercicio7.AssemblyInfoInputs.cache
+C:\Users\USUARIO\temp\Lista2\exercicio7\exercicio7\obj\Debug\net5.0\exercicio7.AssemblyInfo.cs
+C:\Users\USUARIO\temp\Lista2\exercicio7\exercicio7\obj\Debug\net5.0\exercicio7.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\temp\Lista2\exercicio7\exercicio7\obj\Debug\net5.0\exercicio7.dll
+C:\Users\USUARIO\temp\Lista2\exercicio7\exercicio7\obj\Debug\net5.0\ref\exercicio7.dll
+C:\Users\USUARIO\temp\Lista2\exercicio7\exercicio7\obj\Debug\net5.0\exercicio7.pdb
+C:\Users\USUARIO\temp\Lista2\exercicio7\exercicio7\obj\Debug\net5.0\exercicio7.genruntimeconfig.cache

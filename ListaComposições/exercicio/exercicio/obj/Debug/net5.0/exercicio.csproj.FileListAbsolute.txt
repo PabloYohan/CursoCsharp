@@ -1,0 +1,16 @@
+C:\temp\CursoC#\ListaComposições\exercicio\exercicio\bin\Debug\net5.0\exercicio.exe
+C:\temp\CursoC#\ListaComposições\exercicio\exercicio\bin\Debug\net5.0\exercicio.deps.json
+C:\temp\CursoC#\ListaComposições\exercicio\exercicio\bin\Debug\net5.0\exercicio.runtimeconfig.json
+C:\temp\CursoC#\ListaComposições\exercicio\exercicio\bin\Debug\net5.0\exercicio.runtimeconfig.dev.json
+C:\temp\CursoC#\ListaComposições\exercicio\exercicio\bin\Debug\net5.0\exercicio.dll
+C:\temp\CursoC#\ListaComposições\exercicio\exercicio\bin\Debug\net5.0\ref\exercicio.dll
+C:\temp\CursoC#\ListaComposições\exercicio\exercicio\bin\Debug\net5.0\exercicio.pdb
+C:\temp\CursoC#\ListaComposições\exercicio\exercicio\obj\Debug\net5.0\exercicio.csprojAssemblyReference.cache
+C:\temp\CursoC#\ListaComposições\exercicio\exercicio\obj\Debug\net5.0\exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\CursoC#\ListaComposições\exercicio\exercicio\obj\Debug\net5.0\exercicio.AssemblyInfoInputs.cache
+C:\temp\CursoC#\ListaComposições\exercicio\exercicio\obj\Debug\net5.0\exercicio.AssemblyInfo.cs
+C:\temp\CursoC#\ListaComposições\exercicio\exercicio\obj\Debug\net5.0\exercicio.csproj.CoreCompileInputs.cache
+C:\temp\CursoC#\ListaComposições\exercicio\exercicio\obj\Debug\net5.0\exercicio.dll
+C:\temp\CursoC#\ListaComposições\exercicio\exercicio\obj\Debug\net5.0\ref\exercicio.dll
+C:\temp\CursoC#\ListaComposições\exercicio\exercicio\obj\Debug\net5.0\exercicio.pdb
+C:\temp\CursoC#\ListaComposições\exercicio\exercicio\obj\Debug\net5.0\exercicio.genruntimeconfig.cache

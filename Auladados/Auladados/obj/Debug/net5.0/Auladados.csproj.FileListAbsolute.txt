@@ -1,0 +1,16 @@
+C:\temp\CursoC#\Auladados\Auladados\bin\Debug\net5.0\Auladados.exe
+C:\temp\CursoC#\Auladados\Auladados\bin\Debug\net5.0\Auladados.deps.json
+C:\temp\CursoC#\Auladados\Auladados\bin\Debug\net5.0\Auladados.runtimeconfig.json
+C:\temp\CursoC#\Auladados\Auladados\bin\Debug\net5.0\Auladados.runtimeconfig.dev.json
+C:\temp\CursoC#\Auladados\Auladados\bin\Debug\net5.0\Auladados.dll
+C:\temp\CursoC#\Auladados\Auladados\bin\Debug\net5.0\ref\Auladados.dll
+C:\temp\CursoC#\Auladados\Auladados\bin\Debug\net5.0\Auladados.pdb
+C:\temp\CursoC#\Auladados\Auladados\obj\Debug\net5.0\Auladados.csprojAssemblyReference.cache
+C:\temp\CursoC#\Auladados\Auladados\obj\Debug\net5.0\Auladados.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\CursoC#\Auladados\Auladados\obj\Debug\net5.0\Auladados.AssemblyInfoInputs.cache
+C:\temp\CursoC#\Auladados\Auladados\obj\Debug\net5.0\Auladados.AssemblyInfo.cs
+C:\temp\CursoC#\Auladados\Auladados\obj\Debug\net5.0\Auladados.csproj.CoreCompileInputs.cache
+C:\temp\CursoC#\Auladados\Auladados\obj\Debug\net5.0\Auladados.dll
+C:\temp\CursoC#\Auladados\Auladados\obj\Debug\net5.0\ref\Auladados.dll
+C:\temp\CursoC#\Auladados\Auladados\obj\Debug\net5.0\Auladados.pdb
+C:\temp\CursoC#\Auladados\Auladados\obj\Debug\net5.0\Auladados.genruntimeconfig.cache
